@@ -1,5 +1,5 @@
 ## Hi there, 
-- 👋 I'm Giacomo Cangi (@GiacomoCangi)
+- 👋 I'm Giacomo Cangi (@CangiGia)
 - ⚙️ Design Engineer @ ***Genie*** | PhD student @ ***UniPG***
 - 🔭 Open source lover (Python main focus)
 - 👯 Open to collaborate on ...
